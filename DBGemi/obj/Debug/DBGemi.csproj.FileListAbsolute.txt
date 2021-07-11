@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\DBGemi\DBGemi\bin\Debug\DBGemi.exe.config
+C:\Users\Lenovo\source\repos\DBGemi\DBGemi\bin\Debug\DBGemi.exe
+C:\Users\Lenovo\source\repos\DBGemi\DBGemi\bin\Debug\DBGemi.pdb
+C:\Users\Lenovo\source\repos\DBGemi\DBGemi\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\DBGemi\DBGemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\DBGemi\DBGemi\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\DBGemi\DBGemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\DBGemi\DBGemi\obj\Debug\DBGemi.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\DBGemi\DBGemi\obj\Debug\DBGemi.Form1.resources
+C:\Users\Lenovo\source\repos\DBGemi\DBGemi\obj\Debug\DBGemi.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\DBGemi\DBGemi\obj\Debug\DBGemi.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\DBGemi\DBGemi\obj\Debug\DBGemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DBGemi\DBGemi\obj\Debug\DBGemi.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\DBGemi\DBGemi\obj\Debug\DBGemi.exe
+C:\Users\Lenovo\source\repos\DBGemi\DBGemi\obj\Debug\DBGemi.pdb
+C:\Users\Lenovo\source\repos\DBGemi\DBGemi\obj\Debug\DBGemi.Migrations.initial.resources
